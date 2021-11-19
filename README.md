@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jackhebda
 - 👀 I’m interested in Cloud solutions
-- 🌱 I’m currently learning to create a grid web app
-- 💞️ I’m looking to collaborate on Data engineering projects
+- 🌱 I’m currently working on ETL using the Azure/Databricks stack
 - 📫 How to reach me: jack@agilytic.be
 
 <!---
