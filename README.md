@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jackhebda
-- 👀 I’m interested in Cloud solutions
-- 🌱 I’m currently working on ETL using the Azure/Databricks stack
-- 📫 How to reach me: jack@agilytic.be
+- 👀 I’m interested in Data/ML solutions
+- 🌱 I’m currently working on Google Cloud related projects
+- 📫 How to reach me: jackhebda@gmail.com
 
 <!---
 jackhebda/jackhebda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
